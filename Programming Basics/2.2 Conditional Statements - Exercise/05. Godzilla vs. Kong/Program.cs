@@ -11,9 +11,7 @@ namespace _05._Godzilla_vs._Kong
             double clothingPrice = double.Parse(Console.ReadLine());
 
             double decor = budget * 0.10;
-            // Console.WriteLine($"{decor}"); PISHE CENATA NA DECOR
-            // Console.WriteLine("decor"); PISHE DECOR
-
+            
             double clothing = numStatis * clothingPrice;
 
             if (numStatis >= 150)

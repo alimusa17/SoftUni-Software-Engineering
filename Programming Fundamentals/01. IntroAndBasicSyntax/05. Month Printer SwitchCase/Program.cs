@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _05._Month_Printer
+namespace _05._Month_Printer_SwitchCase
 {
     class Program
     {
@@ -49,7 +49,7 @@ namespace _05._Month_Printer
                 default:
                     Console.WriteLine("Error!");
                     break;
-                   
+
             }
         }
     }

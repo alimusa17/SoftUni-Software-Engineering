@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _05._Month_Printer_If
+namespace _05._Month_Printer
 {
     class Program
     {
@@ -12,7 +12,7 @@ namespace _05._Month_Printer_If
             {
                 Console.WriteLine("January");
             }
-            else if (month ==2)
+            else if (month == 2)
             {
                 Console.WriteLine("February");
             }

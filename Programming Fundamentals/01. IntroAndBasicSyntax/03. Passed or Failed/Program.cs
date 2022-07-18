@@ -6,6 +6,7 @@ namespace _03._Passed_or_Failed
     {
         static void Main(string[] args)
         {
+
             double grade = double.Parse(Console.ReadLine());
             if (grade >= 3.00)
             {

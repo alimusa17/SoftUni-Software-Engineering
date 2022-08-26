@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Activation Keys", "01. Activation Keys\01. Activation Keys.csproj", "{EDAFA467-3A87-4A7A-B92D-61540EC50403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Emoji Detector", "02. Emoji Detector\02. Emoji Detector.csproj", "{1095EC35-E405-4548-AC5A-C4A3CAF0A930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Heroes Of Code And Logic VII", "03. Heroes Of Code And Logic VII\03. Heroes Of Code And Logic VII.csproj", "{C62711FD-448D-4999-9326-21761465DC59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Need For Speed III", "04. Need For Speed III\04. Need For Speed III.csproj", "{16B3022D-672A-4B92-ACC7-42D49268214E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Destination Mapper", "05. Destination Mapper\05. Destination Mapper.csproj", "{42C57DC7-6A3B-4D1E-911C-AA0C5766570E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDAFA467-3A87-4A7A-B92D-61540EC50403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAFA467-3A87-4A7A-B92D-61540EC50403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAFA467-3A87-4A7A-B92D-61540EC50403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAFA467-3A87-4A7A-B92D-61540EC50403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1095EC35-E405-4548-AC5A-C4A3CAF0A930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1095EC35-E405-4548-AC5A-C4A3CAF0A930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1095EC35-E405-4548-AC5A-C4A3CAF0A930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1095EC35-E405-4548-AC5A-C4A3CAF0A930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C62711FD-448D-4999-9326-21761465DC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62711FD-448D-4999-9326-21761465DC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62711FD-448D-4999-9326-21761465DC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62711FD-448D-4999-9326-21761465DC59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B3022D-672A-4B92-ACC7-42D49268214E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B3022D-672A-4B92-ACC7-42D49268214E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B3022D-672A-4B92-ACC7-42D49268214E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B3022D-672A-4B92-ACC7-42D49268214E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C57DC7-6A3B-4D1E-911C-AA0C5766570E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C57DC7-6A3B-4D1E-911C-AA0C5766570E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C57DC7-6A3B-4D1E-911C-AA0C5766570E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C57DC7-6A3B-4D1E-911C-AA0C5766570E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7DC3649-3728-401D-9F58-C10C975B94AA}
+	EndGlobalSection
+EndGlobal

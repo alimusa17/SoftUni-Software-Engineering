@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_04._Vegetable_Market</RootNamespace>
+    <RootNamespace>_02.Triangle_Area</RootNamespace>
   </PropertyGroup>
 
 </Project>

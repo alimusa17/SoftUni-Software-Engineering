@@ -1,15 +1,16 @@
 ﻿using System;
 
-namespace _02._Triangle_Area
+namespace _01.Trapeziod_Area
 {
     class Program
     {
         static void Main(string[] args)
         {
-            double a = double.Parse(Console.ReadLine());
+            double b1 = double.Parse(Console.ReadLine());
+            double b2 = double.Parse(Console.ReadLine());
             double h = double.Parse(Console.ReadLine());
 
-            double area = a * h / 2;
+            double area = (b1 + b2) * h / 2.0;
 
             Console.WriteLine($"{area:f2}");
         }

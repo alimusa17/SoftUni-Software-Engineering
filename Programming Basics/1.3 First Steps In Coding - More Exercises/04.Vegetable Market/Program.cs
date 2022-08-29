@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _04._Vegetable_Market
+namespace _04.Vegetable_Market
 {
     class Program
     {
@@ -14,11 +14,9 @@ namespace _04._Vegetable_Market
             double priceVeg = priceKgVeg * totalKgVeg;
             double priceFruit = priceKgFruit * totalKgFruit;
 
-            double totalSum = (priceVeg + priceFruit)/1.94;
+            double totalSum = (priceVeg + priceFruit) / 1.94;
 
             Console.WriteLine($"{totalSum:f2}");
-
-
         }
     }
 }

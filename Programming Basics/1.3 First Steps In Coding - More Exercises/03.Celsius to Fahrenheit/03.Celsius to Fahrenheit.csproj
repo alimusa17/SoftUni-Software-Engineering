@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_01._Trapeziod_Area</RootNamespace>
+    <RootNamespace>_03.Celsius_to_Fahrenheit</RootNamespace>
   </PropertyGroup>
 
 </Project>

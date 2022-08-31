@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_02._Family_Trip_by_AM</RootNamespace>
+    <RootNamespace>_01._Pipes_In_Pool</RootNamespace>
   </PropertyGroup>
 
 </Project>

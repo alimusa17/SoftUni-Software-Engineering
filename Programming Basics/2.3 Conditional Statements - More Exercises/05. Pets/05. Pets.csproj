@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_02._Skeleton_by_AM</RootNamespace>
+    <RootNamespace>_05._Pets</RootNamespace>
   </PropertyGroup>
 
 </Project>

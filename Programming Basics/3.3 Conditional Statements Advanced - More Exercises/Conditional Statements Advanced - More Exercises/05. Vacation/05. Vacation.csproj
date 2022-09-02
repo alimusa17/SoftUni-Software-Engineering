@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_03._Snooker_FORUM</RootNamespace>
+    <RootNamespace>_05._Vacation</RootNamespace>
   </PropertyGroup>
 
 </Project>

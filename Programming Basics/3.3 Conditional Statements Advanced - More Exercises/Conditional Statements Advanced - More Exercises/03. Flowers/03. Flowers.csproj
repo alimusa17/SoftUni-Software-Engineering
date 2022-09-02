@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_03._Travel_Agency_by_Authors</RootNamespace>
+    <RootNamespace>_03._Flowers</RootNamespace>
   </PropertyGroup>
 
 </Project>
